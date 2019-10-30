@@ -1,7 +1,10 @@
 {
-  "printWidth": 90,
+  "printWidth": 70,
   "trailingComma": "all",
   "tabWidth": 2,
   "semi": true,
-  "singleQuote": true
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true
 }
